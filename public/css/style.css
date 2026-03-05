@@ -1,0 +1,15 @@
+
+.group-box {
+  min-height: 200px;
+  padding: 10px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
+
+.team-card {
+  background: #ffffff;
+  padding: 8px;
+  margin-bottom: 6px;
+  border-radius: 6pc;
+  cursor: grab;
+}
